@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "fullName": "Yoqubjon",
+    "phoneNumber": "+998940102003",
+    "password": "$2b$12$eaSbYInBgzR7RZuux2U6tOILtP6O0yjBiZZZrk/YizXPNC0XT5O2e",
+    "price": 703000
+  },
+  {
+    "id": 2,
+    "fullName": "Begzod",
+    "phoneNumber": "+998940102103",
+    "password": "$2b$12$eaSbYInBgzR7RZuux2U6tOILtP6O0yjBiZZZrk/YizXPNC0XT5O2e",
+    "price": 1500000
+  },
+  {
+    "id": 3,
+    "fullName": "Murodjon",
+    "phoneNumber": "+998940102203",
+    "password": "$2b$12$eaSbYInBgzR7RZuux2U6tOILtP6O0yjBiZZZrk/YizXPNC0XT5O2e",
+    "price": 5500000
+  },
+  {
+    "id": 4,
+    "fullName": "Shahroz",
+    "phoneNumber": "+998912210990",
+    "password": "$2b$12$Jv4.Ww7h4qj5.In/bINGxObDQEGH7Mjh0b/OwQmpmk5Co6SUAo84C",
+    "price": 1000000
+  }
+]
